@@ -4,14 +4,14 @@
 
 ## Markdown编辑格式
 ## 目录
-- [链接](#链接)
-- [Markdown语法代码高亮](#Markdown语法代码高亮)
-- [列表](#列表)
-- [编号](#编号)
-- [字体格式](#字体格式)
-- [引用](#引用)
-- [任务清单](#任务清单)
-- [表格](#表格)
+- [链接](#1-链接)
+- [Markdown语法代码高亮](#2-Markdown语法代码高亮)
+- [列表](#3-列表)
+- [编号](#4-编号)
+- [字体格式](#5-字体格式)
+- [引用](#6-引用)
+- [任务清单](#7-任务清单)
+- [表格](#8-表格)
  
 ### 1. 链接
 - 格式：`[名称](地址)`。
@@ -71,7 +71,8 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 ```
-- 例：  
+- 例：
+
 First Header | Second Header  
 ------------ | -------------  
 Content from cell 1 | Content from cell 2  
