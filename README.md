@@ -4,7 +4,7 @@
 
 ## Markdown编辑格式
 ## 目录
-- [1. 链接](### 1. 链接)
+- [1. 链接](#1. 链接)
 - [People & Body](#people--body)
 - [Animals & Nature](#animals--nature)
 - [Food & Drink](#food--drink)
@@ -70,7 +70,7 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 ```
-- 例：
+- 例：  
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
