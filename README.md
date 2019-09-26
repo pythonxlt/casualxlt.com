@@ -4,13 +4,15 @@
 
 ## Markdown编辑格式
 ## 目录
-- [1. 链接](#1. 链接)
-- [People & Body](#people--body)
-- [Animals & Nature](#animals--nature)
-- [Food & Drink](#food--drink)
-- [Travel & Places](#travel--places)
-- [Activities](#activities)
-
+- [链接](#链接)
+- [Markdown语法代码高亮](#Markdown语法代码高亮)
+- [列表](#列表)
+- [编号](#编号)
+- [字体格式](#字体格式)
+- [引用](#引用)
+- [任务清单](#任务清单)
+- [表格](#表格)
+ 
 ### 1. 链接
 - 格式：`[名称](地址)`。
 - 如：[editor on GitHub](https://github.com/pythonxlt/casualxlt.com/edit/master/index.md)
@@ -51,8 +53,7 @@
 ### 6. 引用
 - 格式：在句子前使用 > 符号；
 - 例：
-> 世上本没有路，走的人多了，也便成了路。
-> - 鲁迅
+> 世上本没有路，走的人多了，也便成了路。—— 鲁迅
 
 ### 7. 任务清单
 - 格式：  
@@ -71,9 +72,9 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 ```
 - 例：  
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
+First Header | Second Header  
+------------ | -------------  
+Content from cell 1 | Content from cell 2  
 Content in the first column | Content in the second column
 
 ## Jekyll主题
